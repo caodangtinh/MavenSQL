@@ -1,1 +1,1 @@
-run with command : 
+run with command : mvn test
